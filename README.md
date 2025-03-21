@@ -7,6 +7,8 @@ The WiDS Datathon 2025 Global Challenge on Kaggle is a predictive modeling chall
 The challenge aims to build a model that accurately predicts patient risk using EHR data, enabling proactive care and resource optimization. This work has critical real-world significance: it could improve patient outcomes by identifying high-risk individuals early, streamline healthcare resource allocation, and reduce costs by preventing complications. Successful models could enhance clinical decision-making, promote early intervention for chronic diseases, and contribute to more efficient, equitable healthcare systems. By tackling this problem, we are helping to directly address gaps in healthcare analytics, offering actionable insights that could save lives and improve global health infrastructure.
 
 ## Data Exploration
-- Describe the dataset(s) used (i.e., the data provided in Kaggle + any additional sources)
+
+The WiDS Datathon uses real-world datasets tailored to each year’s challenge. The 2025 Global Challenge uses the Healthy Brain Network (HBN) dataset, which includes functional connectivity matrices (processed via RBC pipelines), P-factor/bifactor analysis, and ADHD-related variables from neuroimaging and behavioral assessments. This dataset integrates neuroimaging data (e.g., connectivity matrices) with clinical/behavioral metrics (e.g., ADHD symptoms, cognitive scores) to explore brain health disparities in women.
+
 - Describe your data exploration and preprocessing approaches
 - Include at least 2-3 visualizations from your Exploratory Data Analysis
