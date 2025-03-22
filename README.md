@@ -12,7 +12,15 @@ The WiDS Datathon uses real-world datasets tailored to each year’s challenge. 
 
 Data Exploration and Preprocessing:
 
+Categorical Data-
+- We handled null categorical values for ethnicity and education level by reassigning the null values to the values designated in the dictionary for unknown ethnicity and education level, respectively
+- Then, we one hot encoded all the categorical values for use in our model!
 
+Numerical Data-
+- We calculated correlation values for each of our numerical variables to get a sense of how they might affect one another!
+
+fMRI Data-
+- We fit and transformed the fMRI data using a scaler so that the units of measurement would not contrast with the rest of the dataset!
 
 Visualizations:
 
