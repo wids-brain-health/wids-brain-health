@@ -1,6 +1,11 @@
 # WIDS Team 13
 ### Tiffney Aina, Wei Ding, Erynn Gutierrez, Ivi Fung
 
+Tiffany: https://github.com/tiffaina
+Wei: https://github.com/Wei0015
+Erynn: https://github.com/Erynn-Gutierrez
+Ivi: https://github.com/MostEsteemedFungus
+
 ## Project Overview
 The WiDS Datathon 2025 Global Challenge on Kaggle is a predictive modeling challenge focused on analyzing electronic health records (EHRs) to forecast patient risk levels in hospitals. While the Break Through Tech AI Program (BTTAI) isn’t directly linked to this specific competition, initiatives like BTTAI  encourage participation in such events to provide students with hands-on AI/data science experience. Competitions like this align with Break Through Tech’s mission to bridge classroom learning with real-world applications, fostering skills in machine learning and healthcare analytics.
 
