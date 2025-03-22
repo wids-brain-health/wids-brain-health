@@ -2,8 +2,11 @@
 ### Tiffney Aina, Wei Ding, Erynn Gutierrez, Ivi Fung
 
 Tiffany: https://github.com/tiffaina
+
 Wei: https://github.com/Wei0015
+
 Erynn: https://github.com/Erynn-Gutierrez
+
 Ivi: https://github.com/MostEsteemedFungus
 
 ## Project Overview
