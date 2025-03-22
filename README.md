@@ -10,8 +10,11 @@ The challenge aims to build a model that accurately predicts patient risk using 
 
 The WiDS Datathon uses real-world datasets tailored to each year’s challenge. The 2025 Global Challenge uses the Healthy Brain Network (HBN) dataset, which includes functional connectivity matrices (processed via RBC pipelines), P-factor/bifactor analysis, and ADHD-related variables from neuroimaging and behavioral assessments. This dataset integrates neuroimaging data (e.g., connectivity matrices) with clinical/behavioral metrics (e.g., ADHD symptoms, cognitive scores) to explore brain health disparities in women.
 
-- Describe your data exploration and preprocessing approaches
-- Include at least 2-3 visualizations from your Exploratory Data Analysis
+Data Exploration and Preprocessing:
+
+Visualizations:
+Heatmap of correlated numerical variables
 ![image](https://github.com/user-attachments/assets/4fc6a9dd-e43c-41b7-8da3-1cf248686045)
+Scatterplot showcasing the relation of externalizing and hyperactivity
 ![image](https://github.com/user-attachments/assets/5e9bfdd3-0b18-449a-99a0-f27114916c82)
 
