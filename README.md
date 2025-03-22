@@ -12,7 +12,10 @@ The WiDS Datathon uses real-world datasets tailored to each year’s challenge. 
 
 Data Exploration and Preprocessing:
 
+
+
 Visualizations:
+
 Heatmap of correlated numerical variables
 ![image](https://github.com/user-attachments/assets/4fc6a9dd-e43c-41b7-8da3-1cf248686045)
 Scatterplot showcasing the relation of externalizing and hyperactivity
