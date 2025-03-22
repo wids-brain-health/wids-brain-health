@@ -12,6 +12,6 @@ The WiDS Datathon uses real-world datasets tailored to each year’s challenge. 
 
 - Describe your data exploration and preprocessing approaches
 - Include at least 2-3 visualizations from your Exploratory Data Analysis
+![image](https://github.com/user-attachments/assets/4fc6a9dd-e43c-41b7-8da3-1cf248686045)
 ![image](https://github.com/user-attachments/assets/5e9bfdd3-0b18-449a-99a0-f27114916c82)
-![image](https://github.com/user-attachments/assets/c2855462-1dd6-41ee-af5d-4392f541c39a)
 
