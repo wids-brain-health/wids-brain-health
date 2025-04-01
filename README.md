@@ -10,8 +10,17 @@ Erynn (Data Cleaning and Visualization): https://github.com/Erynn-Gutierrez
 Ivi (Data Cleaning and Visualization): https://github.com/MostEsteemedFungus
 
 ## Project Overview
+The goal of this project to build a model to predict both an individual’s sex and their ADHD diagnosis using functional brain imaging data of children and adolescents and their socio-demographic, emotions, and parenting information.
+
+Target Variables
+ADHD_Outcome: Type of Diagnosis (0=Other/None, 1=ADHD)
+Sex_F: Sex of participant (0=Male, 1=Female)
+
+We used a multioutput classifier to achieve an accuracy score of 0.72411.
 
 ## Setup and Execution
+After downloading the data and uploading it to your Google Drive, run each of the code blocks in the script in succession.
+NB: You might need to update the second block to reflect the actual location of the data in your Google Drive.
 
 ## Project Overview
 The WiDS Datathon 2025 Global Challenge on Kaggle is a predictive modeling challenge focused on analyzing electronic health records (EHRs) to forecast patient risk levels in hospitals. While the Break Through Tech AI Program (BTTAI) isn’t directly linked to this specific competition, initiatives like BTTAI  encourage participation in such events to provide students with hands-on AI/data science experience. Competitions like this align with Break Through Tech’s mission to bridge classroom learning with real-world applications, fostering skills in machine learning and healthcare analytics.
